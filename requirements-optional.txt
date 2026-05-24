@@ -1,0 +1,3 @@
+# Optional numerical libraries for validation
+numpy
+scipy
